@@ -37,6 +37,3 @@ python Home.py
 ### Android App
 Open the Android project folder in Android Studio, build the project, and install it on a device or emulator to register, view toll zones, manage your wallet, and track tolls in real time.
 
-## Security Note
-
-Database credentials in this project are loaded from environment variables (`DB_HOST`, `DB_USER`, `DB_PASSWORD`, `DB_NAME`) rather than hardcoded. Earlier versions of this repository contained hardcoded credentials; these have since been removed and replaced with placeholders. Set your own environment variables or update the placeholder values before running.
