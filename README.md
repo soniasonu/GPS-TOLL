@@ -6,9 +6,13 @@ A multi-component toll management system with a Python (Flask) web admin panel, 
 
 This was my academic mini project, built with my team. Toll systems like FASTag rely on gantries with RFID readers, and those are expensive to set up and maintain. If a gantry breaks down, toll collection at that spot just stops working. This project uses a vehicle's GPS location instead of physical infrastructure on the road.
 
-**How it works:** A microcontroller with GPS connectivity sits in the vehicle and continuously tracks its location. The system compares those coordinates with toll zone coordinates stored in the database, and when they match, the toll amount gets deducted automatically from the user's wallet. It also checks the vehicle's speed against the legal limit for that road and raises a fine if it's crossed. Since we didn't have access to real GPS hardware, we built a Java Swing simulator (SwingServer) to demo vehicles moving through toll zones and triggering tolls and fines.
+**How it works:** 
 
-**What I learned:** This project pushed me to think about how multiple parts of a system — a web app, a mobile app, and a simulation tool — work together through a shared database.
+A microcontroller with GPS connectivity sits in the vehicle and continuously tracks its location. The system compares those coordinates with toll zone coordinates stored in the database, and when they match, the toll amount gets deducted automatically from the user's wallet. It also checks the vehicle's speed against the legal limit for that road and raises a fine if it's crossed. Since we didn't have access to real GPS hardware, we built a Java Swing simulator (SwingServer) to demo vehicles moving through toll zones and triggering tolls and fines.
+
+**What I learned:** 
+
+This project pushed me to think about how multiple parts of a system — a web app, a mobile app, and a simulation tool — work together through a shared database.
 
 ## Features
 
