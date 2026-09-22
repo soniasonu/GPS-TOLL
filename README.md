@@ -13,7 +13,7 @@ A microcontroller with GPS connectivity sits in the vehicle and continuously tra
 **What I learned:** 
 
 This project helped me to think about how multiple parts of a system — a web app, a mobile app, and a simulation tool — work together through a shared database.
-
+  
 ## Features
 
 - GPS-based automatic toll detection and collection
