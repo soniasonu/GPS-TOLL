@@ -13,6 +13,10 @@ A microcontroller with GPS connectivity sits in the vehicle and continuously tra
 **What I learned:** 
 
 This project helped me to think about how multiple parts of a system — a web app, a mobile app, and a simulation tool — work together through a shared database.
+
+## Screenshot
+<img width="400" alt="t" src="https://github.com/user-attachments/assets/e0997715-77dc-4f47-afef-8f050b01f74e" />
+
   
 ## Features
 
