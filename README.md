@@ -17,7 +17,11 @@ This project helped me to think about how multiple parts of a system — a web a
 ## Screenshot
 <img width="400" alt="t" src="https://github.com/user-attachments/assets/e0997715-77dc-4f47-afef-8f050b01f74e" />
 
-  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/949ae700-b6fb-4a40-986f-3f98f04e5ae4" />
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7e648690-3f96-47e3-ab57-41aca99ffca7" />
+
+
 ## Features
 
 - GPS-based automatic toll detection and collection
